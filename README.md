@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @luigg2000
 - 👀 I’m interested in Linux, Networking and Cybersecurity
-- 🌱 I’m currently learning Python and Docker
+- 🌱 I’m currently learning Forensics and Malware Analysis
 
 
 <!---
