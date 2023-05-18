@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @luigg2000
+- 👋 Hi, I’m @baphx6
 - 👀 I’m interested in Linux, Networking and Cybersecurity
-- 🌱 I’m currently learning Forensics and Malware Analysis
+- 🌱 I’m currently learning Pentesting and Malware Analysis
 
 
 <!---
