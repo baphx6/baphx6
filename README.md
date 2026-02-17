@@ -1,9 +1,16 @@
-- 👋 Hi, I’m @baphx6
-- 👀 I’m interested in Linux, Networking and Cybersecurity
-- 🌱 I’m currently learning Pentesting and Malware Analysis
 
 
-<!---
-luigg2000/luigg2000 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+>##### 💭 "If you only walk on sunny days you'll never reach your destination" 
+
+```bash
+┌──(baphx6㉿grey)-[~]
+└─$ whoami
+I'm a Jr Pentester and GRC enthusiast who just passed OSCP!!
+Excited to start new projects related to Offensive Security, Pentesting and Red Teaming
+```
+
+***What's next?***:
+
+- **Cloud Pentesting** ☁️
+- **API Pentesting** ⚙️
+- **AI/ML/LLM Pentesting** 🤖
